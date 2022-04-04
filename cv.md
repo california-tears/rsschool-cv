@@ -8,7 +8,7 @@
 
 - RS School Student at Front-end Stage 1 Course
 - Currently working as an engineer in automotive industry
-- Goal: learn all the stack of technologies needed to works as Front-end Junior
+- Goal: to learn all the stack of technologies needed to work as Front-end Junior
 - Have strong desire to self-study and learn something new
 
 ## Stack
