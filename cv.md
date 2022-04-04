@@ -29,3 +29,8 @@
 
 ## Education
 - Togliatti State University, Materials Science & Nanotechnology
+
+## Languages
+- English - C1
+- French - A2
+- Russian - Native
