@@ -15,7 +15,7 @@ Have strong desire to self-study and learn something new
 ## Stack
 (Following below is in progress)
 
-HTML5 / CSS3 / Sass/Less / React
+HTML5 / CSS3 / Sass/Less / React / React Router / Redux / Node.js / Socket.io
 
 ## Code examples
 All my codewars solutions
