@@ -18,7 +18,7 @@ Have strong desire to self-study and learn something new
 HTML5 / CSS3 / Sass/Less / React / React Router / Redux / Node.js / Socket.io
 
 ## Code examples
-All my codewars solutions
+[All my codewars solutions](https://www.codewars.com/users/california-tears/completed_solutions)
 
 ## Experience
 To be updated, have no experience yet
